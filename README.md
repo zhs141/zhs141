@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @213bingmeng
+- 👀 I’m interested in bot and qrcode. 
+- 🌱 I’m currently learning Python. 
+- 💞️ I don't want to cooperate. 
+- 📫 My mailbox is 2860365128@qq.com.
