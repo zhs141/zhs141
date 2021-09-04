@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @213bingmeng
-- 👀 I’m interested in bot and qrcode. 
-- 🌱 I’m currently learning Python. 
-- 💞️ I don't want to cooperate. 
-- 📫 My mailbox is 2860365128@qq.com.
+-👋嗨，我是@213 bingmeng n-👀我对python感兴趣。N-🌱我目前正在学习Python。N-💞️我不
+想合作。N-📫我的邮箱是1945581557@qq.com
